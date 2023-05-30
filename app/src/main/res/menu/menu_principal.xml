@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuChangePlayers"
+        android:onClick="MenuClick"
+        android:title="@string/btnchangename" />
+    <item
+        android:id="@+id/menuScoreboard"
+        android:onClick="MenuClick"
+        android:title="@string/btnscore" />
+    <item
+        android:id="@+id/menuRecommencer"
+        android:onClick="MenuClick"
+        android:title="@string/btnrecommencer" />
+    <item
+        android:id="@+id/menuQuitter"
+        android:onClick="MenuClick"
+        android:title="@string/btnquitter" />
+</menu>

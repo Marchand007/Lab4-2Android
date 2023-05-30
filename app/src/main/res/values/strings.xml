@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab3-2</string>
+    <string name="titre">Jeu de TicTacToe</string>
+    <string name="titreNomJoueur">Entrer le nom des joueurs</string>
+    <string name="titreScore">Tableau des scores</string>
+    <string name="status"></string>
+    <string name="btnrecommencer">Recommencer</string>
+    <string name="btnchangename">Identifier les joueurs</string>
+    <string name="btnquitter">Quitter</string>
+    <string name="textpX">Nom du Joueur "X"</string>
+    <string name="textpO">Nom du Joueur "O"</string>
+    <string name="textjoueur">Joueur</string>
+    <string name="textscore">Score</string>
+    <string name="textnull">Null</string>
+    <string name="btnjouer">JOUER</string>
+    <string name="btnenregistrer">Enregistrer</string>
+    <string name="btnscore">Tableau des scores</string>
+    <string name="btnretour">Retourner au jeu</string>
+
+
+
+
+</resources>
